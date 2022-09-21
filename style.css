@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .half-width {
@@ -13,10 +14,18 @@ body {
     width: 100%;
 }
 
+.top-banner {
+    background-image: url(images/top-banner.png);
+}
+
 h1 {
     font-size: 50px;
 }
 
 .name-heighlight {
     color: brown;
+}
+
+section {
+    height: 500px;
 }
